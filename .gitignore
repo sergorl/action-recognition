@@ -1,4 +1,3 @@
 /runs
-/data/person-cows.mp4
-/data/test-0.mp4
+/data/*.mp4
 /.idea
