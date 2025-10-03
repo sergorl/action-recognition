@@ -1,4 +1,4 @@
 /runs
-/data/*
+/data/*.mp4
 !data/
 /.idea
